@@ -1,0 +1,13 @@
+{
+  "name": "marlosoft/web-app",
+  "license": "MIT",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {
+    "marlosoft/framework": "^1.0"
+  }
+}
